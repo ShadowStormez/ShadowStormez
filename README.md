@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**ShadowStormez/ShadowStormez** i# 💫 About Me:
+# 💫 About Me:
 👋 Hi! I’m Aria Tehrani, 20yrs old, computer engineering student at Tehran Markaz University/ Junior frontend developer.<br>🔭 I’m currently working on personal frontend projects.<br>👯 I’m looking to collaborate on open-source and UI/UX-focused projects.<br>🌱 I’m learning Next.js, TypeScript, and Tailwind CSS.<br>💬 Ask me about JavaScript or React!<br>⚡ Fun fact: I enjoy creating intuitive and eye-catching UIs.
 
 
@@ -27,16 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShadowStormez&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->s a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
