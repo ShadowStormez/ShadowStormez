@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Aria Tehrani, 20yrs old, computer engineering student at Tehran Markaz University/ Junior frontend developer.<br>🔭 I’m currently working on personal frontend projects.<br>👯 I’m looking to collaborate on open-source and UI/UX-focused projects.<br>🌱 I’m learning Next.js, TypeScript, and Tailwind CSS.<br>💬 Ask me about JavaScript or React!<br>⚡ Fun fact: I enjoy creating intuitive and eye-catching UIs.
+👋 Hi! I’m Aria Tehrani, 21yrs old, computer engineering student at Tehran Markaz University/ Junior frontend developer.<br>🔭 I’m currently working on personal frontend projects.<br>👯 I’m looking to collaborate on open-source and UI/UX-focused projects.<br>🌱 I’m learning Next.js, TypeScript, and Tailwind CSS.<br>💬 Ask me about JavaScript or React!<br>⚡ Fun fact: I enjoy creating intuitive and eye-catching UIs.
 
 
 ## 🌐 Socials:
